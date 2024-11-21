@@ -1,2 +1,7 @@
-# Auto detect text files and perform LF normalization
-* text=auto
+CREATE DATABASE SCM-Fady
+ON (FILENAME = 'D:\github d-top\SCM Project\SCM-Fady.mdf')
+FOR ATTACH;
+"ConnectionStrings" : {
+   "DefaultConnection": "Server=localhost;Database=SCM-Fady;User Id=<username>;Password=<password>;"
+}
+dotnet ef dbcontext scaffold "Server=localhost;Database=SCM-Fady;User Id=<username>;Password=<password>;" Microsoft.EntityFrameworkCore.SqlServer
