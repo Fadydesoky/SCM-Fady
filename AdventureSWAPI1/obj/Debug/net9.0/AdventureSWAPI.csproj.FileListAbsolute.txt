@@ -1,0 +1,8 @@
+D:\github d-top\SCM Project\SCM-Fady\AdventureSWAPI1\obj\Debug\net9.0\AdventureSWAPI.csproj.AssemblyReference.cache
+D:\github d-top\SCM Project\SCM-Fady\AdventureSWAPI1\obj\Debug\net9.0\AdventureSWAPI.GeneratedMSBuildEditorConfig.editorconfig
+D:\github d-top\SCM Project\SCM-Fady\AdventureSWAPI1\obj\Debug\net9.0\AdventureSWAPI.AssemblyInfoInputs.cache
+D:\github d-top\SCM Project\SCM-Fady\AdventureSWAPI1\obj\Debug\net9.0\AdventureSWAPI.AssemblyInfo.cs
+D:\github d-top\SCM Project\SCM-Fady\AdventureSWAPI1\obj\Debug\net9.0\AdventureSWAPI.csproj.CoreCompileInputs.cache
+D:\github d-top\SCM Project\SCM-Fady\AdventureSWAPI1\obj\Debug\net9.0\AdventureSWAPI.MvcApplicationPartsAssemblyInfo.cs
+D:\github d-top\SCM Project\SCM-Fady\AdventureSWAPI1\obj\Debug\net9.0\AdventureSWAPI.MvcApplicationPartsAssemblyInfo.cache
+D:\github d-top\SCM Project\SCM-Fady\AdventureSWAPI1\obj\Debug\net9.0\AdventureSWAPI.sourcelink.json
