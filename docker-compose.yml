@@ -3,8 +3,8 @@ services:
   sqlserver:
     image: mcr.microsoft.com/mssql/server
     environment:
-      SA_PASSWORD: "YourStrong@Passw0rd"
-      ACCEPT_EULA: "Y"
+      SA_PASSWORD: "FadyDesoky123scm"
+      ACCEPT_EULA: "Fady"
     ports:
       - "1433:1433"
   api:
