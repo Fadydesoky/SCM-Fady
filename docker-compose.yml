@@ -12,6 +12,6 @@ services:
     depends_on:
       - sqlserver
     environment:
-      ConnectionStrings__DefaultConnection: "Server=sqlserver;Database=AdventureWorks;User Id=sa;Password=YourStrong@Passw0rd;"
+      ConnectionStrings__DefaultConnection: "Server=sqlserver;Database=AdventureWorks;User Id=Fady;Password=FadyDesoky123scm;"
     ports:
       - "8080:80"
